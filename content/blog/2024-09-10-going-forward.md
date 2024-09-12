@@ -32,5 +32,5 @@ And you really will have to make it through that violent, metaphysical, symbolic
 <blockquote>
 But one thing is certain. When you come out of the storm you won't be the same person who walked in. That's what this storm's all about.
 
-- Haruki Murakami
+-- Haruki Murakami
 </blockquote>
