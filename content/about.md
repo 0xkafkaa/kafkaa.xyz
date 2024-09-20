@@ -2,7 +2,7 @@
 title = "About"
 +++
 
-I am Manoprasanth MATHAVAN, who hail from a little coastal town named [*Pondicherry*](https://en.wikipedia.org/wiki/Pondicherry) situtated on the South Indian peninsula. I am an Engineer by profession. I have a great zeal towards fabricating ideas, research, learn and experiment. *Kafkaa* is one such experiment as well. 
+I am Manoprasanth MATHAVAN, who hail from a little coastal town named [*Pondicherry*](https://en.wikipedia.org/wiki/Pondicherry) situated on the South Indian peninsula. I am an Engineer by profession. I have a great zeal towards fabricating ideas, research, learn and experiment. *Kafkaa* is one such experiment as well. 
 
 The primary motive behind this experiment is to build *Kafkaa* as a [*Digital Garden*](https://www.technologyreview.com/2020/09/03/1007716/digital-gardens-let-you-cultivate-your-own-little-bit-of-the-internet/). The concept of a digital garden doesn't really rely on any particular ethos, in short its less about connection and feedback and more about building a quiet space that we can call ours.  
 

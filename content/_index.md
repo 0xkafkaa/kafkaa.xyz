@@ -12,7 +12,7 @@ I am Manoprasanth MATHAVAN, who hail from a little coastal town named Pondicherr
 ## Blog Posts
 
 Here are the latest blogs:
-
+- [Setting up my VPS](./blog/setting-up-a-vps/)
 - [Going Forward](./blog/going-forward)
 - [A Month without Media Consumption](./blog/no-media-consumption)
 - [Killing Commendatore by Murakami](./blog/killing-commendatore)
